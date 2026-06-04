@@ -130,4 +130,4 @@ Contributions are welcome! If you have a wallpaper you'd like to share:
 
 ## ⚖️ License
 
-This collection is licensed under the [GPLv3](LICENSE).
+This collection is licensed under the [Unlicense](LICENSE).
